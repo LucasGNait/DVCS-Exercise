@@ -1,6 +1,8 @@
 # DVCS-Exercise
 The DVCS Exercise for DMIT 2018
 
+Lucas Gannon
+
 Answers to take home questions.
 
 Exercises
