@@ -10,6 +10,8 @@
     <p>This is a paragraph for the web page.</p>
 
     <%--This is an interesting exercise--%>
+
+    <h1>This Header is now in the exercise.</h1>
     
 </body>
 </html>
