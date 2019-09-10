@@ -7,9 +7,6 @@
     <title>This Exercise</title>
 </head>
 <body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
+    <p>This is a paragraph for the web page.</p>
 </body>
 </html>
